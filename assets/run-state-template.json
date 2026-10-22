@@ -1,0 +1,123 @@
+{
+  "schema_version": 2,
+  "run_id": null,
+  "task_mode": null,
+  "current_date_and_timezone": null,
+  "scope_and_authorization": null,
+  "brief": null,
+  "baseline": [],
+  "requirements_version": null,
+  "candidate_version_or_sha256": null,
+  "next_action": "读取workflow.md，仅完成S01需求、基线与能力清单。",
+  "stages": [
+    {
+      "id": "S01",
+      "status": "pending",
+      "marker": null,
+      "artifacts": [],
+      "evidence": [],
+      "reuse_reason": null
+    },
+    {
+      "id": "S02",
+      "status": "pending",
+      "marker": null,
+      "artifacts": [],
+      "evidence": [],
+      "reuse_reason": null
+    },
+    {
+      "id": "S03",
+      "status": "pending",
+      "marker": null,
+      "artifacts": [],
+      "evidence": [],
+      "reuse_reason": null
+    },
+    {
+      "id": "S04",
+      "status": "pending",
+      "marker": null,
+      "artifacts": [],
+      "evidence": [],
+      "reuse_reason": null
+    },
+    {
+      "id": "S05",
+      "status": "pending",
+      "marker": null,
+      "artifacts": [],
+      "evidence": [],
+      "reuse_reason": null
+    },
+    {
+      "id": "S06",
+      "status": "pending",
+      "marker": null,
+      "artifacts": [],
+      "evidence": [],
+      "reuse_reason": null
+    },
+    {
+      "id": "S07",
+      "status": "pending",
+      "marker": null,
+      "artifacts": [],
+      "evidence": [],
+      "reuse_reason": null
+    },
+    {
+      "id": "S08",
+      "status": "pending",
+      "marker": null,
+      "artifacts": [],
+      "evidence": [],
+      "reuse_reason": null
+    },
+    {
+      "id": "S09",
+      "status": "pending",
+      "marker": null,
+      "artifacts": [],
+      "evidence": [],
+      "reuse_reason": null
+    }
+  ],
+  "review": {
+    "isolated": null,
+    "isolation_evidence": null,
+    "input_manifest": null,
+    "reports": [],
+    "required_item_statuses": {},
+    "snapshot_manifest_sha256": null,
+    "snapshot_verification": null,
+    "review_scope": null
+  },
+  "validation": {
+    "all_slides_viewed": null,
+    "native_editability": null,
+    "font_rendering": null,
+    "media_decode": null,
+    "target_powerpoint_playback": null,
+    "end_to_end_test": "not_run"
+  },
+  "timing": {
+    "plan_artifact": null,
+    "measurement_artifact": null,
+    "measurement_input_fingerprint": null,
+    "measured_fields_source": "候选审计JSON；不手写重复页数、字数或时长。",
+    "rate_and_reserve_assumptions": null,
+    "rehearsal_evidence": null
+  },
+  "final_artifacts": [],
+  "delivery": {
+    "destination": null,
+    "status": "not_attempted",
+    "evidence": null
+  },
+  "open_issues": [],
+  "blocked": [],
+  "untested_boundaries": [],
+  "overall_status": "pending",
+  "acceptance_status": "pending"
+}
